@@ -1,7 +1,7 @@
-# Frontend Project Name
+# Quicksell Front-end Assignment
 
 ## Description
-This project is a frontend application designed to connect students with alumni. The goal is to provide a platform where students can seek guidance, mentorship, and networking opportunities with alumni from their institution. The application features real-time chat, project ratings, and user-friendly navigation.
+This project is a front-end application designed to connect students with alumni. The goal is to provide a platform where students can seek guidance, mentorship, and networking opportunities with alumni from their institution. The application features real-time chat, project ratings, and user-friendly navigation.
 
 ## Table of Contents
 - [Features](#features)
@@ -9,7 +9,6 @@ This project is a frontend application designed to connect students with alumni.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - *User Authentication*: Secure login and registration for students and alumni.
@@ -23,10 +22,31 @@ This project is a frontend application designed to connect students with alumni.
 - *JavaScript*: Interactivity and dynamic content.
 - *React*: Frontend library for building user interfaces.
 - *react-icons*: Library for including icons in the application.
-  
+
+
 ## Installation
 To run this project locally, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   https://github.com/Nisha-Kedia/Quicksell_.git
+   bash
+   git clone https://github.com/Nisha-Kedia/Quicksell_.git
+   
+2. Navigate to the project directory:
+   bash
+   cd frontend-project-name
+   
+3. Install the required packages:
+   bash
+   npm install
+   
+4. Start the development server:
+   bash
+   npm start
+   
+
+## Usage
+Open your browser and go to http://localhost:3000 to view the application. You can register as a student or an alumni, and start exploring the features available.
+
+## Contributing
+Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request.
+
